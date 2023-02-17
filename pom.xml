@@ -34,14 +34,14 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-				<configuration>
+				<!--<configuration>
 					<image>
 						<name>moti/${project.artifactId}:${project.version}</name>
 					</image>
-				</configuration>
+				</configuration>-->
 			</plugin>
 		</plugins>
-
+<finalName>docker-spring-boot-integration</finalName>
 	</build>
 
 </project>
