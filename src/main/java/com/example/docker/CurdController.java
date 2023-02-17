@@ -8,7 +8,7 @@ public class CurdController {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Welcome to Docker Tutorial...2ndCommit";
+		return "Welcome to Docker Tutorial...3rdCommit";
 		
 	}
 
