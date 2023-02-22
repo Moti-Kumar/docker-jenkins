@@ -41,7 +41,7 @@
 				</configuration>-->
 			</plugin>
 		</plugins>
-<finalName>docker-spring-boot-integration</finalName>
+<finalName>spring-boot-docker</finalName>
 	</build>
 
 </project>
